@@ -1,0 +1,5 @@
+C:\Users\Elon\Pictures\WorkDir\IMG_PATH.JPG
+220 250		# size of one image
+50 50		# window top-left position
+100 100 150 150	# red rectangle
+160 100 200 200	# blue rectangle
